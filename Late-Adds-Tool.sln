@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Late-Adds-Tool", "Late-Adds-Tool\Late-Adds-Tool.csproj", "{5E0A3C6D-6B53-47E6-B32F-A4CBEC629240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Late-Adds-Tool.Tests", "Late-Adds-Tool.Tests\Late-Adds-Tool.Tests.csproj", "{7E8B004D-4855-4DB2-A107-F7C80CA12463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0A3C6D-6B53-47E6-B32F-A4CBEC629240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0A3C6D-6B53-47E6-B32F-A4CBEC629240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0A3C6D-6B53-47E6-B32F-A4CBEC629240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0A3C6D-6B53-47E6-B32F-A4CBEC629240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8B004D-4855-4DB2-A107-F7C80CA12463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8B004D-4855-4DB2-A107-F7C80CA12463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8B004D-4855-4DB2-A107-F7C80CA12463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8B004D-4855-4DB2-A107-F7C80CA12463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
